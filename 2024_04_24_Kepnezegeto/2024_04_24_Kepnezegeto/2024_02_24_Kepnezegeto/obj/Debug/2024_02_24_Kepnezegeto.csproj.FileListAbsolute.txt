@@ -1,0 +1,95 @@
+H:\2023-2024\12.c AAF\2024_02_24_Kepnezegeto\2024_02_24_Kepnezegeto\bin\Debug\2024_02_24_Kepnezegeto.exe.config
+H:\2023-2024\12.c AAF\2024_02_24_Kepnezegeto\2024_02_24_Kepnezegeto\bin\Debug\2024_02_24_Kepnezegeto.exe
+H:\2023-2024\12.c AAF\2024_02_24_Kepnezegeto\2024_02_24_Kepnezegeto\bin\Debug\2024_02_24_Kepnezegeto.pdb
+H:\2023-2024\12.c AAF\2024_02_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto.csproj.AssemblyReference.cache
+H:\2023-2024\12.c AAF\2024_02_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\MainWindow.g.cs
+H:\2023-2024\12.c AAF\2024_02_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\App.g.cs
+H:\2023-2024\12.c AAF\2024_02_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto_MarkupCompile.cache
+H:\2023-2024\12.c AAF\2024_02_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto_MarkupCompile.lref
+H:\2023-2024\12.c AAF\2024_02_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\MainWindow.baml
+H:\2023-2024\12.c AAF\2024_02_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto.g.resources
+H:\2023-2024\12.c AAF\2024_02_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\_2024_02_24_Kepnezegeto.Properties.Resources.resources
+H:\2023-2024\12.c AAF\2024_02_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto.csproj.GenerateResource.cache
+H:\2023-2024\12.c AAF\2024_02_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto.csproj.CoreCompileInputs.cache
+H:\2023-2024\12.c AAF\2024_02_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto.exe
+H:\2023-2024\12.c AAF\2024_02_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto.pdb
+h:\2023-2024\12.c AAF\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\bin\Debug\2024_02_24_Kepnezegeto.exe.config
+h:\2023-2024\12.c AAF\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\bin\Debug\2024_02_24_Kepnezegeto.exe
+h:\2023-2024\12.c AAF\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\bin\Debug\2024_02_24_Kepnezegeto.pdb
+h:\2023-2024\12.c AAF\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto.csproj.AssemblyReference.cache
+h:\2023-2024\12.c AAF\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\MainWindow.g.cs
+h:\2023-2024\12.c AAF\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\App.g.cs
+h:\2023-2024\12.c AAF\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto_MarkupCompile.cache
+h:\2023-2024\12.c AAF\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto_MarkupCompile.lref
+h:\2023-2024\12.c AAF\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\MainWindow.baml
+h:\2023-2024\12.c AAF\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto.g.resources
+h:\2023-2024\12.c AAF\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\_2024_02_24_Kepnezegeto.Properties.Resources.resources
+h:\2023-2024\12.c AAF\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto.csproj.GenerateResource.cache
+h:\2023-2024\12.c AAF\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto.csproj.CoreCompileInputs.cache
+h:\2023-2024\12.c AAF\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto.exe
+h:\2023-2024\12.c AAF\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto.pdb
+h:\2023-2024\12.c AAF\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\KrauszMartonWPF_Projekt\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\bin\Debug\2024_02_24_Kepnezegeto.exe.config
+H:\KrauszMartonWPF_Projekt\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\bin\Debug\2024_02_24_Kepnezegeto.exe
+H:\KrauszMartonWPF_Projekt\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\bin\Debug\2024_02_24_Kepnezegeto.pdb
+H:\KrauszMartonWPF_Projekt\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto.csproj.AssemblyReference.cache
+H:\KrauszMartonWPF_Projekt\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\MainWindow.g.cs
+H:\KrauszMartonWPF_Projekt\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\App.g.cs
+H:\KrauszMartonWPF_Projekt\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\KrauszMartonWPF_Projekt\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto_MarkupCompile.cache
+H:\KrauszMartonWPF_Projekt\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto_MarkupCompile.lref
+H:\KrauszMartonWPF_Projekt\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\MainWindow.baml
+H:\KrauszMartonWPF_Projekt\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto.g.resources
+H:\KrauszMartonWPF_Projekt\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\_2024_02_24_Kepnezegeto.Properties.Resources.resources
+H:\KrauszMartonWPF_Projekt\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto.csproj.GenerateResource.cache
+H:\KrauszMartonWPF_Projekt\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto.csproj.CoreCompileInputs.cache
+H:\KrauszMartonWPF_Projekt\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto.exe
+H:\KrauszMartonWPF_Projekt\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto.pdb
+H:\KrauszMartonWPF_Projekt\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\bin\Debug\2024_02_24_Kepnezegeto.exe.config
+H:\KrauszMartonWPF_Projekt\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\bin\Debug\2024_02_24_Kepnezegeto.exe
+H:\KrauszMartonWPF_Projekt\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\bin\Debug\2024_02_24_Kepnezegeto.pdb
+H:\KrauszMartonWPF_Projekt\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto.csproj.AssemblyReference.cache
+H:\KrauszMartonWPF_Projekt\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\MainWindow.g.cs
+H:\KrauszMartonWPF_Projekt\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\App.g.cs
+H:\KrauszMartonWPF_Projekt\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\KrauszMartonWPF_Projekt\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto_MarkupCompile.cache
+H:\KrauszMartonWPF_Projekt\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto_MarkupCompile.lref
+H:\KrauszMartonWPF_Projekt\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\MainWindow.baml
+H:\KrauszMartonWPF_Projekt\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto.g.resources
+H:\KrauszMartonWPF_Projekt\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\_2024_02_24_Kepnezegeto.Properties.Resources.resources
+H:\KrauszMartonWPF_Projekt\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto.csproj.GenerateResource.cache
+H:\KrauszMartonWPF_Projekt\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto.csproj.CoreCompileInputs.cache
+H:\KrauszMartonWPF_Projekt\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto.exe
+H:\KrauszMartonWPF_Projekt\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto.pdb
+H:\WPF_BEADANDÓ\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\bin\Debug\2024_02_24_Kepnezegeto.exe.config
+H:\WPF_BEADANDÓ\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\bin\Debug\2024_02_24_Kepnezegeto.exe
+H:\WPF_BEADANDÓ\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\bin\Debug\2024_02_24_Kepnezegeto.pdb
+H:\WPF_BEADANDÓ\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto.csproj.AssemblyReference.cache
+H:\WPF_BEADANDÓ\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\MainWindow.g.cs
+H:\WPF_BEADANDÓ\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\App.g.cs
+H:\WPF_BEADANDÓ\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\WPF_BEADANDÓ\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto_MarkupCompile.cache
+H:\WPF_BEADANDÓ\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto_MarkupCompile.lref
+H:\WPF_BEADANDÓ\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\MainWindow.baml
+H:\WPF_BEADANDÓ\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto.g.resources
+H:\WPF_BEADANDÓ\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\_2024_02_24_Kepnezegeto.Properties.Resources.resources
+H:\WPF_BEADANDÓ\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto.csproj.GenerateResource.cache
+H:\WPF_BEADANDÓ\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto.csproj.CoreCompileInputs.cache
+H:\WPF_BEADANDÓ\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto.exe
+H:\WPF_BEADANDÓ\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto.pdb
+C:\Users\xboxh\Desktop\WPF_képnézegető\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\bin\Debug\2024_02_24_Kepnezegeto.exe.config
+C:\Users\xboxh\Desktop\WPF_képnézegető\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\bin\Debug\2024_02_24_Kepnezegeto.exe
+C:\Users\xboxh\Desktop\WPF_képnézegető\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\bin\Debug\2024_02_24_Kepnezegeto.pdb
+C:\Users\xboxh\Desktop\WPF_képnézegető\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto.csproj.AssemblyReference.cache
+C:\Users\xboxh\Desktop\WPF_képnézegető\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\MainWindow.g.cs
+C:\Users\xboxh\Desktop\WPF_képnézegető\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\App.g.cs
+C:\Users\xboxh\Desktop\WPF_képnézegető\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\xboxh\Desktop\WPF_képnézegető\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto_MarkupCompile.cache
+C:\Users\xboxh\Desktop\WPF_képnézegető\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto_MarkupCompile.lref
+C:\Users\xboxh\Desktop\WPF_képnézegető\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\MainWindow.baml
+C:\Users\xboxh\Desktop\WPF_képnézegető\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto.g.resources
+C:\Users\xboxh\Desktop\WPF_képnézegető\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\_2024_02_24_Kepnezegeto.Properties.Resources.resources
+C:\Users\xboxh\Desktop\WPF_képnézegető\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto.csproj.GenerateResource.cache
+C:\Users\xboxh\Desktop\WPF_képnézegető\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto.csproj.CoreCompileInputs.cache
+C:\Users\xboxh\Desktop\WPF_képnézegető\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto.exe
+C:\Users\xboxh\Desktop\WPF_képnézegető\KepNezegeto\2024_04_24_Kepnezegeto\2024_04_24_Kepnezegeto\2024_02_24_Kepnezegeto\obj\Debug\2024_02_24_Kepnezegeto.pdb
