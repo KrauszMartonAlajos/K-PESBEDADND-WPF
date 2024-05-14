@@ -12,7 +12,7 @@
         <local:CountConvert x:Key="countConv"/>
         <local:ColorConverter x:Key="colorConv"/>
         <DataTemplate x:Key="dtPict">
-            <Border BorderThickness="3" BorderBrush="{Binding Name, Converter={StaticResource colorConv}}" CornerRadius="10">
+            <Border BorderThickness="3"  BorderBrush="Blue" CornerRadius="10">
                 <StackPanel>
                     <!--ide kerül a kép 1-2-3 szöveg egység-->
                     <Image Source="{Binding FullName}" Width="{Binding ElementName=MeretesCsuszkaAzertKellEgyEkkoraNevMertEzzelFejezemKiMennyireSzeretemAWPFetAmiTízPer0, Path=Value}" Height="156" Margin="5"/>
@@ -23,7 +23,7 @@
             </Border>
         </DataTemplate>
         <DataTemplate x:Key="dtPict2">
-            <Border BorderThickness="3" BorderBrush="{Binding Name, Converter={StaticResource colorConv}}" CornerRadius="10">
+            <Border BorderThickness="3" BorderBrush="Blue" CornerRadius="10">
                 <StackPanel Orientation="Horizontal">
                     <Image Source="{Binding FullName}" Width="{Binding ElementName=MeretesCsuszkaAzertKellEgyEkkoraNevMertEzzelFejezemKiMennyireSzeretemAWPFetAmiTízPer0, Path=Value}" Height="156" Margin="5"/>
                     <StackPanel>
@@ -117,7 +117,7 @@
             </ListBox.ItemsPanel>
             <ListBox.ItemTemplate>
                 <DataTemplate>
-                    <Border BorderThickness="1" BorderBrush="LightGray" Margin="5" Width="499" Height="499">
+                    <Border BorderThickness="1" BorderBrush="LightGray" Margin="5" Width="470" Height="490">
                         <ContentPresenter Content="{Binding}" ContentTemplate="{StaticResource dtPict}"/>
                     </Border>
                 </DataTemplate>

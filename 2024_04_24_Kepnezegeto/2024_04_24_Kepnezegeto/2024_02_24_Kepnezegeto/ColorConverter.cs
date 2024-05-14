@@ -19,7 +19,7 @@ namespace _2024_02_24_Kepnezegeto
             string extension = Path.GetExtension(fileName);
             if (extension == ".jpg")
                 return new SolidColorBrush(Colors.Green);
-            return new SolidColorBrush(Colors.Red);
+            return new SolidColorBrush(Colors.Green);
         }
 
         public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)

@@ -24,7 +24,7 @@ namespace _2024_02_24_Kepnezegeto
     public partial class MainWindow : Window
     {
         Photos photos;
-        string path = "C:\\Users\\xboxh\\Desktop\\WPF_képnézegető\\KepNezegeto\\2024_04_24_Kepnezegeto\\2024_04_24_Kepnezegeto\\images";
+        string path = "H:/SZAAAAAAAAAA/K-PESBEDADND-WPF/2024_04_24_Kepnezegeto/2024_04_24_Kepnezegeto/images";
         ICollectionView myView;
         int mode = 1;
 
