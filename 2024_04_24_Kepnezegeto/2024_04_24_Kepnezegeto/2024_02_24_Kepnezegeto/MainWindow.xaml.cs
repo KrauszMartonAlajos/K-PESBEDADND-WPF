@@ -82,7 +82,6 @@ namespace _2024_02_24_Kepnezegeto
             
             myView.SortDescriptions.Add(
                 new SortDescription("Name", ListSortDirection.Descending));
-            MessageBox.Show("NÉv");
             GombCheck();
         }
 
@@ -90,7 +89,6 @@ namespace _2024_02_24_Kepnezegeto
         {
             myView.SortDescriptions.Add(
                 new SortDescription("LastAccessTime", ListSortDirection.Descending));
-            MessageBox.Show("DáTuM");
             GombCheck();
         }
 

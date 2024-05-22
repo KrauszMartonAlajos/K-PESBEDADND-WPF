@@ -5,7 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:_2024_02_24_Kepnezegeto"
         mc:Ignorable="d"
-        Title="MainWindow" Height="750" Width="1000"
+        Title="Kép nézegető Krausz Márton" Height="750" Width="1000"
+        ResizeMode="NoResize"
         >
 
     <Window.Resources >
@@ -40,10 +41,10 @@
             <WrapPanel/>
         </ItemsPanelTemplate>
     </Window.Resources>
-    
-    
-    <DockPanel>
-        <ToolBar DockPanel.Dock="Top" Height="26" VerticalAlignment="Top" >
+
+
+    <DockPanel Background="DarkGray">
+        <ToolBar Background="DarkSalmon" DockPanel.Dock="Top" Height="26" VerticalAlignment="Top" >
             <Button Content="Sorbarendezés NÉV alapján" Height="21" Click="Button_Click"  />
             <Button Content="Sorbarendezés DÁTUM alapján" Height="21" Click="Button_Click_1" />
             <Button Content="1. mód"  Height="21" Click="Button_Click_2" />
@@ -58,11 +59,11 @@
             <DockPanel Width="30"/>
             <Button x:Name="le_jobbra" Content="↓"  FontSize="20" Height="30" Click="Button_Click_6" />
         </ToolBar>
-        <StatusBar DockPanel.Dock="Bottom" Height="26" VerticalAlignment="Top">
+        <StatusBar DockPanel.Dock="Bottom" Height="26" Background="DarkSalmon" VerticalAlignment="Top">
             <TextBlock Text="{Binding Count , Converter={StaticResource countConv}}"/>
         </StatusBar>
 
-        <ListBox x:Name="lstBox3" HorizontalAlignment="Center" Width="950px" ItemsSource="{Binding}" ItemsPanel="{StaticResource pictTemplate}" ItemTemplate="{StaticResource dtPict}"
+        <ListBox x:Name="lstBox3" HorizontalAlignment="Center" Width="988" ItemsSource="{Binding}" ItemsPanel="{StaticResource pictTemplate}" ItemTemplate="{StaticResource dtPict}"
                  ScrollViewer.HorizontalScrollBarVisibility="Disabled">
             <ListBox.GroupStyle>
                 <GroupStyle>
