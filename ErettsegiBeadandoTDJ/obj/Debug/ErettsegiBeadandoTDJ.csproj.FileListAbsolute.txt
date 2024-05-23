@@ -1,0 +1,16 @@
+H:\12.C\Program\ErettsegiBeadandoTDJ\ErettsegiBeadandoTDJ\bin\Debug\ErettsegiBeadandoTDJ.exe.config
+H:\12.C\Program\ErettsegiBeadandoTDJ\ErettsegiBeadandoTDJ\bin\Debug\ErettsegiBeadandoTDJ.exe
+H:\12.C\Program\ErettsegiBeadandoTDJ\ErettsegiBeadandoTDJ\bin\Debug\ErettsegiBeadandoTDJ.pdb
+H:\12.C\Program\ErettsegiBeadandoTDJ\ErettsegiBeadandoTDJ\obj\Debug\ErettsegiBeadandoTDJ.csproj.AssemblyReference.cache
+H:\12.C\Program\ErettsegiBeadandoTDJ\ErettsegiBeadandoTDJ\obj\Debug\MainWindow.g.cs
+H:\12.C\Program\ErettsegiBeadandoTDJ\ErettsegiBeadandoTDJ\obj\Debug\App.g.cs
+H:\12.C\Program\ErettsegiBeadandoTDJ\ErettsegiBeadandoTDJ\obj\Debug\ErettsegiBeadandoTDJ_MarkupCompile.cache
+H:\12.C\Program\ErettsegiBeadandoTDJ\ErettsegiBeadandoTDJ\obj\Debug\ErettsegiBeadandoTDJ_MarkupCompile.lref
+H:\12.C\Program\ErettsegiBeadandoTDJ\ErettsegiBeadandoTDJ\obj\Debug\MainWindow.baml
+H:\12.C\Program\ErettsegiBeadandoTDJ\ErettsegiBeadandoTDJ\obj\Debug\ErettsegiBeadandoTDJ.g.resources
+H:\12.C\Program\ErettsegiBeadandoTDJ\ErettsegiBeadandoTDJ\obj\Debug\ErettsegiBeadandoTDJ.Properties.Resources.resources
+H:\12.C\Program\ErettsegiBeadandoTDJ\ErettsegiBeadandoTDJ\obj\Debug\ErettsegiBeadandoTDJ.csproj.GenerateResource.cache
+H:\12.C\Program\ErettsegiBeadandoTDJ\ErettsegiBeadandoTDJ\obj\Debug\ErettsegiBeadandoTDJ.csproj.CoreCompileInputs.cache
+H:\12.C\Program\ErettsegiBeadandoTDJ\ErettsegiBeadandoTDJ\obj\Debug\ErettsegiBeadandoTDJ.exe
+H:\12.C\Program\ErettsegiBeadandoTDJ\ErettsegiBeadandoTDJ\obj\Debug\ErettsegiBeadandoTDJ.pdb
+H:\12.C\Program\ErettsegiBeadandoTDJ\ErettsegiBeadandoTDJ\obj\Debug\GeneratedInternalTypeHelper.g.cs
